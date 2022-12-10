@@ -1,0 +1,15 @@
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\bin\Debug\net6.0\01_Zadacha.exe
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\bin\Debug\net6.0\01_Zadacha.deps.json
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\bin\Debug\net6.0\01_Zadacha.runtimeconfig.json
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\bin\Debug\net6.0\01_Zadacha.dll
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\bin\Debug\net6.0\01_Zadacha.pdb
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.csproj.AssemblyReference.cache
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.AssemblyInfoInputs.cache
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.AssemblyInfo.cs
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.dll
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\refint\01_Zadacha.dll
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.pdb
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\01_Zadacha.genruntimeconfig.cache
+C:\Users\79263\OneDrive\Документы\Бастрый старт ТЕСТИРОВЩИК\01 Четверть\Знакомство с языком программирования с#\homeWork_3_6\01_Zadacha\obj\Debug\net6.0\ref\01_Zadacha.dll
