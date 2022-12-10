@@ -4,21 +4,6 @@
 //b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
 Console.Clear();
-//Console.Write("Введите четыре числа через пробел: ");
-//string tochki = Console.ReadLine();
-//double[] baseArray = StartArray(tochki);
-//Console.WriteLine(String.Join(";", TochkaArray(baseArray)));
-
-    //double[] StartArray(string[] stringArray)
-    //{
-    //    string[] nums = stringArray.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-    //    double[] result = new double[nums.Length];
-    //    for (double i = 0; i < nums.Length; i++)
-    //    {
-    //        result[i] = double.Parse(nums[i]);
-    //    }
-    //    return result;
-    //}
 Console.Write("Введите число b1: ");
 double b1 = double.Parse(Console.ReadLine());
 
